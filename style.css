@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.shad{
+    box-shadow: 0.6rem  0.4rem 0.8rem  0.1rem black;
+    margin-inline: 0.4rem;
+}
+input{
+  font-size:xx-large;
+}
